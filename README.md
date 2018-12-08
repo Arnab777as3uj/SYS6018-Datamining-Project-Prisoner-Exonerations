@@ -26,5 +26,5 @@ F/MFE: False or Misleading Forensic Evidence
 OM: Official Misconduct
 ILD: Inadequate Legal Defense      
 
-    Age: The exoneree's age on the date of the reported crime
+Age: The exoneree's age on the date of the reported crime
 
