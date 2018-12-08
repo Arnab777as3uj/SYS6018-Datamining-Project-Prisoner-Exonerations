@@ -34,17 +34,17 @@ The column labeled "Tags" allows you to sort and search cases by each of several
     
 The six columns on the far right of this page display separately the Contributing Factors that are listed together on the Summary Page. To save space, we use abbreviations. To see definitions of these factors, click on their full names:
 
-MWID: Mistaken Witness Identification
+    MWID: Mistaken Witness Identification
 
-FC: False Confession
+    FC: False Confession
 
-P/FA: Perjury or False Accusation
+    P/FA: Perjury or False Accusation
 
-F/MFE: False or Misleading Forensic Evidence
+    F/MFE: False or Misleading Forensic Evidence
 
-OM: Official Misconduct
+    OM: Official Misconduct
 
-ILD: Inadequate Legal Defense      
+    ILD: Inadequate Legal Defense      
 
 
 Age: The exoneree's age on the date of the reported crime
