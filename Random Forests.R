@@ -113,25 +113,24 @@ for(i in 1:length(counties)) {
 datat$County = as.factor(counties)
 
 
-
 # Do the same for Sentence variable
 
 # Store the names of the top 52 sentences
 top_sentences = names(sort(table(datat$Sentence), decreasing = TRUE))[1:52]
 
-# Initialize counties vector for safe modifying
+# Initialize sentences vector for safe modifying
 sentences = as.character(datat$Sentence)
 
-# Iterate through all counties
+# Iterate through all sentences
 for(i in 1:length(sentences)) {
   
-  # If value is not in our top counties, change it to 'Other'
+  # If value is not in our top sentences, change it to 'Other'
   if(!sentences[i] %in% top_sentences) {
     sentences[i] = 'Other'
   }
 }
 
-# Replace County column with our counties vector
+# Replace Sentences column with our sentences vector
 datat$Sentence = as.factor(sentences)
 
 
