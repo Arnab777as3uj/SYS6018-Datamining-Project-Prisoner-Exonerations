@@ -49,3 +49,7 @@ The six columns on the far right of this page display separately the Contributin
 
 Age: The exoneree's age on the date of the reported crime
 
+
+
+Please look at 'html' files for quick view of python code and results.
+All reusable functions are organised under "Helper Functions" section in every file
