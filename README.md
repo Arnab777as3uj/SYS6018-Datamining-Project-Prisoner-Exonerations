@@ -1,5 +1,29 @@
 # sys-project-prisoner-exonerations
 
+NOTE:
+Please look at 'html' files for quick view of python code and results.
+All reusable functions are organised under "Helper Functions" section in every file.
+
+ROLES & RESPONSIBILITIES:
+
+Lucas Beane:
+Feature Engineering
+Random Forest Modeling
+Report Writing
+
+Arnab Sarkar:
+Feature Engineering
+XGBoost
+Report Writing
+
+Navin Kasa:
+EDA
+Linear Regression
+Report Writing
+
+
+DATA DESCRIPTION:
+
 The column labeled "Tags" allows you to sort and search cases by each of several additional common characteristics. To see the definitions of these terms, click on their full names:  	
     
     A: Arson Case
@@ -51,5 +75,4 @@ Age: The exoneree's age on the date of the reported crime
 
 
 
-Please look at 'html' files for quick view of python code and results.
-All reusable functions are organised under "Helper Functions" section in every file
+
